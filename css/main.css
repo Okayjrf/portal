@@ -71,6 +71,12 @@ img {
     border-radius: 30px;
 }
 
+span {
+    font-family:'Lato', "Spectral";
+    float: right;
+    padding: .1em;
+}
+
 /* Responsive rules */
 
 /* DESKTOP */
